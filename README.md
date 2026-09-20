@@ -18,7 +18,7 @@ Before running Gator, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone  https://github.com/RazanDwikat/gator.git
 cd gator
 ```
 
